@@ -10,6 +10,7 @@ import NoPage from './Pages/Nopage';
 import BlogPost from './Pages/BlogPost';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+
 const router = createBrowserRouter([{
   path: '/',
   element: <Layout/>,

@@ -7,7 +7,9 @@ const Blogs = () => {
   return (
     <>
     <div>Blogs </div>
-    <Link to="/blogs/blog1">Blog 1</Link>
+    <Link to="/blogs/blog1">Blog 1</Link> <br/>
+    <Link to="/blogs/blog2">Blog 2</Link> <br />
+    <Link to="/blogs/blog3">Blog 3</Link> <br/>
     </>
   )
 }
