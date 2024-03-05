@@ -9,7 +9,6 @@ const Blogs = () => {
     <div>Blogs </div>
     <Link to="/blogs/blog1">Blog 1</Link>
     </>
-    
   )
 }
 
